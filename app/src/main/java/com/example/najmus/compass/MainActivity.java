@@ -1,4 +1,7 @@
 package com.example.najmus.compass;
+/*====================================
+    Author : NAJMUS SEEMAB
+======================================*/
 
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;
@@ -9,6 +12,7 @@ import android.os.Bundle;
 import android.view.animation.Animation;
 import android.view.animation.RotateAnimation;
 import android.widget.ImageView;
+
 
 public class MainActivity extends AppCompatActivity implements SensorEventListener{
 
